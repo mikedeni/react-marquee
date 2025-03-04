@@ -18,7 +18,9 @@ A simple and elegant logo slider component built with React and react-fast-marqu
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/mikedeni/react-marquee
+2. bun i
+3. bun run dev
 
 ## Screenshots
 
