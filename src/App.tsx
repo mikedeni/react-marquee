@@ -1,5 +1,4 @@
 import Marquee from "react-fast-marquee";
-import "./App.css";
 import LogoMarquee from "./components/LogoMarquee";
 
 function App() {
